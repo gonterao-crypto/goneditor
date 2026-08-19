@@ -1,2 +1,4 @@
 # goneditor
-日本製CUIエディター
+テキストエディター
+# 使い方
+Shift+tabで移動
